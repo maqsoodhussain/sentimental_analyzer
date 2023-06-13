@@ -1,8 +1,8 @@
 import streamlit as st
 import openai
 
-
-openai.api_key = "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"
+#API_KEY = "chatgpt API KEY"
+openai.api_key =  API_KEY
 
 #functon that connect chatgpt and get responce from it 
 def get_responce_from_chatgpt(text):
