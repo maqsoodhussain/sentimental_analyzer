@@ -1,2 +1,3 @@
 # sentimental_analyzer
-Tool created using streamlit for giving sentimant of a give sentence 
+Tool created using streamlit 
+Gives positive or Negative of given sentence
