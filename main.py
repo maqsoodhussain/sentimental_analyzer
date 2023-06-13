@@ -20,6 +20,14 @@ def get_responce_from_chatgpt(text):
 #result = get_responce_from_chatgpt("i am happy")
 # print(result)
 
+
+#strealit web icon and name of header
+st.set_page_config(
+        page_title="SENTIMENTAL ANALYZER",
+        page_icon="icon.png"
+    )
+
+
 # we are using streamlit for gui to interact with user in better way 
 st.title("SENTIMENTAL ANALYZER USING CHATGPT")
 model = 'gpt-3.5-turbo'
