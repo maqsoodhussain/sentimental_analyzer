@@ -1,3 +1,4 @@
 # sentimental_analyzer
 Tool created using streamlit 
-Gives positive or Negative of given sentence
+open link to run
+https://searchdisease.maqsoodhussain.repl.co/
